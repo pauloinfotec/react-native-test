@@ -1,4 +1,4 @@
-# Simple React-Native app using FlatList and Axios to consume a API
+# Simple React-Native app developed on [(RocketSeat Course)](https://app.rocketseat.com.br/node/curso-react-native) using FlatList and Axios to consume a API
 
 ## Read the instructions how to do project configuration
 
